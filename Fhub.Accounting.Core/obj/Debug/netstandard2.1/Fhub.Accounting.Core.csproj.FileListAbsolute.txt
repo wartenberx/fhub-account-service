@@ -1,0 +1,8 @@
+/Users/mw/Source/fhub-account-service/Fhub.Accounting.Core/bin/Debug/netstandard2.1/Fhub.Accounting.Core.deps.json
+/Users/mw/Source/fhub-account-service/Fhub.Accounting.Core/bin/Debug/netstandard2.1/Fhub.Accounting.Core.dll
+/Users/mw/Source/fhub-account-service/Fhub.Accounting.Core/bin/Debug/netstandard2.1/Fhub.Accounting.Core.pdb
+/Users/mw/Source/fhub-account-service/Fhub.Accounting.Core/obj/Debug/netstandard2.1/Fhub.Accounting.Core.csprojAssemblyReference.cache
+/Users/mw/Source/fhub-account-service/Fhub.Accounting.Core/obj/Debug/netstandard2.1/Fhub.Accounting.Core.AssemblyInfoInputs.cache
+/Users/mw/Source/fhub-account-service/Fhub.Accounting.Core/obj/Debug/netstandard2.1/Fhub.Accounting.Core.AssemblyInfo.cs
+/Users/mw/Source/fhub-account-service/Fhub.Accounting.Core/obj/Debug/netstandard2.1/Fhub.Accounting.Core.dll
+/Users/mw/Source/fhub-account-service/Fhub.Accounting.Core/obj/Debug/netstandard2.1/Fhub.Accounting.Core.pdb
